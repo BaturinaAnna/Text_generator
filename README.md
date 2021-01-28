@@ -65,6 +65,8 @@ const int MAXGEN=1000; //amount of the output text
 Example of text generation based on the ''Hamlet'', Shekspear
 
 ```
-That can I; At least, the whisper goes so. Our last king, Whose image even but now appear'd to us, Was, 
-as you know, by Fortinbras of Norway, Thereto prick'd on by a most emulate pride, Dared to the combat; in which our valiant Hamlet-- For so this side of 
+That can I; At least, the whisper goes so. 
+Our last king, Whose image even but now appear'd to us, Was, 
+as you know, by Fortinbras of Norway, Thereto prick'd on by a most emulate pride, 
+Dared to the combat; in which our valiant Hamlet-- For so this side of 
 ```
